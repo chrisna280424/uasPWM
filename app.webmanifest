@@ -1,7 +1,7 @@
 {
-    "name": "Jadwal Adzan",
-    "short_name": "Jadwal Adzan",
-    "description": "Aplikasi untuk melihat jadwal adzan",
+    "name": "Jadwal Kereta Api Yogyakarta-Purwokerto",
+    "short_name": "Jadwal Kereta Api Yogyakarta-Purwokerto",
+    "description": "Aplikasi untuk melihat Jadwal Kereta Api Yogyakarta-Purwokerto",
     "icons": [
         {
             "src": "icons/icon-48.png",
